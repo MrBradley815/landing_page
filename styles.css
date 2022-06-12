@@ -1,0 +1,16 @@
+:root {
+    --color-navy: #1F2937;
+    --color-blue: #3882F6;
+    --color-gray: #E5E7EB;
+    --color-white: #FFFFFF;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5% !important;
+}
